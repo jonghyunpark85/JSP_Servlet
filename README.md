@@ -19,6 +19,10 @@ JSPincludeHeader<br/>
 JSPuseBean<br/>
 UpperCaseWorld
 
+## State
+WebCounter <br/>
+RememberMe
+
 ## JPA
 ShoppingList <br/>
 JPALab
